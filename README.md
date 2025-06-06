@@ -18,8 +18,9 @@ O objetivo é aplicar os conhecimentos de QA em cenários reais, integrando com 
 ```
 ---
 
-```📌 Conteúdos abordados
+##📌 Conteúdos abordados
 
+```
 ✅ Tipos de teste e ciclo de vida do bug
 📝 Testes manuais e criação de casos de teste
 🧪 Automação com Python (pytest e Selenium)
