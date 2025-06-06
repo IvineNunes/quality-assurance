@@ -15,7 +15,7 @@ O objetivo é aplicar os conhecimentos de QA em cenários reais, integrando com 
 ┣ 📂semana-3-automacao
 ┣ 📂semana-4-projeto-final
 ┗ 📄README.md
-
+````
 📌 Conteúdos abordados
 ✅ Tipos de teste e ciclo de vida do bug
 📝 Testes manuais e criação de casos de teste
